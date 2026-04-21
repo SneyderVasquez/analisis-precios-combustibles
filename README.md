@@ -40,7 +40,6 @@ Análisis integral de datos históricos de precios de combustibles líquidos en 
 
 - Evolución temporal de precios por tipo de combustible
 - Comparativa de precios promedio por marca y segmento
-- Heatmap de precios por mes y año (estacionalidad)
 - Top municipios y departamentos con precios más altos
 - Distribución estadística de precios
 
