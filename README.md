@@ -46,7 +46,8 @@ Análisis integral de datos históricos de precios de combustibles líquidos en 
 ## Autor
 
 **Sneyder Vasquez**  
-Estudiante / Analista de Datos. Perteneciente a la facultad de ingeniería 
-Ingeniería de software
+Estudiante / Analista de Datos. 
+Perteneciente a la facultad de ingeniería.
+Ingeniería de software.
 
 
